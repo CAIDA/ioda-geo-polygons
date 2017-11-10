@@ -42,3 +42,8 @@ for use with other databases.
 
 Datasets in this project have been made from data from the
 [Natural Earth](http://www.naturalearthdata.com/) project.
+
+## License
+
+This data has been released **for non-commercial use only**. See the full
+[LICENSE](LICENSE) for more information.
